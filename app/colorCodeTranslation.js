@@ -79,7 +79,7 @@ function getPairNumberFromColor(pair)
 			pairNumber = 23;
             testPair1 = getColorFromPairNumber(pairNumber);
             console.log(`[In]Pair Number: ${pairNumber},[Out] Colors:${testPair1}`);
-			console.assert(testPair1.majorColor == "RED");
+			console.assert(testPair1.majorColor == "VIOLET");
 			console.assert(testPair1.minorColor == "GREEN");
 			 
             let testPair2 = new ColorPair();
