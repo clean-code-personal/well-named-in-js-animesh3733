@@ -1,5 +1,6 @@
 {
   "name": "well-named-in",
+  "type": "module",
   "version": "1.0.0",
   "description": "JS Assignment Repository",
   "main": "colorCoder.js",
